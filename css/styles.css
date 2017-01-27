@@ -18,8 +18,18 @@ body {
 .yellow {
   color: #E0CE04;
   padding-top: 10px;
+  font-size: 18px;
+
+  .omg {
+    color: #fff;
+    font-size: 28px;
+  }
 
 
+}
+
+a:link {
+  background-color: #E0CE04
 }
 
 
@@ -35,13 +45,30 @@ body {
 
 }
 
+.black-slice {
+  font-size: 18px;
+}
+
+.black-slice2 {
+  font-size: 18px;
+  color: #E0CE04
+}
+
+
+#monk {
+  color: black;
+  text-align: center;
+  font-family: lora;
+  font-size: 18px;
+  padding-top: 10px;
+}
 
 
 p {
   text-align: center;
   font-size: 14px;
   font-family: lora;
-  color: E0CE04;
+  color: #E0CE04;
 }
 
 .about-text p {
@@ -58,4 +85,13 @@ p {
   float: left;
   width: 240px;
   padding: 10px;
+}
+
+.slice-float {
+  display: block;
+  border-radius: 50%;
+  float: right;
+  width: 240px;
+  padding: 10px;
+
 }
