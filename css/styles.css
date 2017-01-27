@@ -1,0 +1,16 @@
+.jumbotron {
+padding: 0.5em 0.6em;
+background-color: linear-gradient(right, #403B4A, #E7E9BB);
+
+font-family: Cabin+Sketch;
+
+
+
+}
+
+h1 {
+ font-size: 80%;
+}
+
+body {
+  background:
