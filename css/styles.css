@@ -1,16 +1,15 @@
-.jumbotron {
-padding: 0.5em 0.6em;
-background-color: linear-gradient(right, #403B4A, #E7E9BB);
 
-font-family: Cabin+Sketch;
-
-
-
-}
-
-h1 {
- font-size: 80%;
-}
 
 body {
-  background:
+  background: url("http://static.simpledesktops.com/uploads/desktops/2016/02/08/sunRising.png");
+  background-size: cover;
+}
+
+.name {
+  color: white;
+}
+
+img {
+  float: right;
+  z-index: -1;
+}
