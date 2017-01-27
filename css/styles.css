@@ -3,13 +3,42 @@
 body {
   background: url("http://static.simpledesktops.com/uploads/desktops/2016/02/08/sunRising.png");
   background-size: cover;
+  background-color: white;
 }
 
 .name {
-  color: white;
+  color: #E0CE04;
+  text-align: center;
+
 }
 
-img {
-  float: right;
-  z-index: -1;
+.about-me {
+background-color: #E0CE04;
+text-align: center;
+padding-bottom; 50px;
+
+
+}
+
+
+.samurai {
+
+  border-radius: 50%;
+  height: auto;
+  width: 100px;
+  opacity: 0.5;
+  float: left;
+
+}
+
+.sidebar {
+  float: left;
+  color: white;
+  opacity: o.5;
+
+
+}
+
+.white-belt {
+  color; white;
 }
