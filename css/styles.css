@@ -1,34 +1,41 @@
 
 
 body {
-  background: url("http://static.simpledesktops.com/uploads/desktops/2016/02/08/sunRising.png");
+  background-color: black;
   background-size: cover;
-  background-color: white;
   font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .name {
   color: #E0CE04;
   text-align: center;
-  font-size: 68;
+  font-size: 68px;
   font-weight: bolder;
   text-shadow: 2px 2px #E0CE04;
   padding-top: 10px;
 }
 
+.yellow {
+  color: #E0CE04;
+  padding-top: 10px;
 
-.about-me {
-height: 300px;
-width: 140px;
+
 }
 
-.about-me1 {
-display: block;
-margin-left: 300px;
-height: 300px;
-width: 140px;
-text-shadow: 2px 2px #E0CE04;
+
+
+.newsection  {
+  color: black;
+  background-color: E0CE04;
+  height: 300px;
 }
+
+.newsection h2 {
+  text-align: center;
+
+}
+
+
 
 p {
   text-align: center;
@@ -37,11 +44,10 @@ p {
   color: E0CE04;
 }
 
-.about-me2 {
-display: block;
-margin-left: 1450px;
-height: 300px;
-width: 140px;
+.about-text p {
+  text-align: left;
+  font-size: 18px;
+  padding-top: 10px;
 }
 
 
@@ -49,9 +55,7 @@ width: 140px;
 .samurai {
   display: block;
   border-radius: 50%;
-  margin: auto;
-  width: 220px;
+  float: left;
+  width: 240px;
   padding: 10px;
-  margin-bottom: 200px;
-
 }
