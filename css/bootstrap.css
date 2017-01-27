@@ -5449,8 +5449,8 @@ button.list-group-item-danger.active:focus {
 }
 .panel {
   margin-bottom: 20px;
-  background-color: #E0CE04;
-  border: 1px solid black;
+  background-color: #fff;
+  border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
           box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
@@ -5460,7 +5460,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-heading {
   padding: 10px 15px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid transparent;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 }
