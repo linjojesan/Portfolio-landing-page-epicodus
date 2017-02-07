@@ -36,25 +36,30 @@ a:link {
   color: black;
   background-color: #E0CE04;
   height: 300px;
+  padding-bottom: 35px;
+  margin-top:20px;
+
 }
 
 .newsection2 {
   color: #E0CE04
   background-color: black;
   height: 300px;
+  padding-top: 25px;
+  margin-top: 45px;
 }
 
 .newsection h2 {
   text-align: center;
   font-size: 68px;
-  font-weight: bolder;
+  text-shadow: 2px 2px #E0CE04;
 
 }
 
 .panel-custom-horrible-red {
     border-color: black;
-    margin-top: 180px;
     width: 300px;
+    padding-bottom: 5px;
 
 }
 .panel-custom-horrible-red > .panel-heading {
@@ -62,14 +67,20 @@ a:link {
     color: #ffffff;
     border-color: #black;
 
+
 }
 
 .panel-body {
   background-color: #E0CE04;
+  margin-bottom: 10px;
+  padding-bottom; 40%;
+
 }
 
 .panel-title {
   color: black;
+  font-size: 18px;
+  font-weight: bolder;
 }
 
 .black-slice {
@@ -101,7 +112,7 @@ p {
 .about-text p {
   text-align: left;
   font-size: 18px;
-  padding-top: 10px;
+  padding-top: 40px;
 }
 
 
