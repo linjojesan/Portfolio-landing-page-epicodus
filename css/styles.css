@@ -54,6 +54,7 @@ a:link {
   font-size: 68px;
   text-shadow: 2px 2px #E0CE04;
 
+
 }
 
 .panel-custom-horrible-red {
@@ -83,9 +84,12 @@ a:link {
   font-weight: bolder;
 }
 
-.black-slice {
+.black-slice p {
   font-size: 18px;
   color: black;
+  font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+
 
 }
 
