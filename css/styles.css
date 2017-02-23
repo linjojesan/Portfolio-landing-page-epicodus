@@ -30,8 +30,6 @@ a:link {
   background-color: #E0CE04
 }
 
-
-
 .newsection  {
   color: black;
   background-color: #E0CE04;
@@ -53,8 +51,6 @@ a:link {
   text-align: center;
   font-size: 68px;
   text-shadow: 2px 2px #E0CE04;
-
-
 }
 
 .panel-custom-horrible-red {
@@ -67,8 +63,6 @@ a:link {
     background: #E0CE04;
     color: #ffffff;
     border-color: #black;
-
-
 }
 
 .panel-body {
@@ -89,24 +83,15 @@ a:link {
   color: black;
   font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
-
-
 }
 
 /*.black-slice2 {
   font-size: 18px;
   color: #E0CE04;
 }*/
-
-
-#monk {
-  color: black;
-  text-align: center;
-  font-family: lora;
+.black-slice {
   font-size: 18px;
-  padding-top: 10px;
 }
-
 
 p {
   text-align: center;
@@ -120,8 +105,6 @@ p {
   font-size: 18px;
   padding-top: 40px;
 }
-
-
 
 .samurai {
   display: block;
